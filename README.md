@@ -13,7 +13,7 @@ Sysmac Studio Version 1.60
 6. ウォッチウィンドウで"Main.iMessage"の変化を確認します。
 
 ## 説明
-FileStreamReaderは、CASEステートマシンの説明に係る使用例です。ストリーム風とするため、一連のFB、FUNから成ります。CASEステートマシンについては[こちら](https://zenn.dev/kitam/articles/02b0981535e25b)を、FileStreamReaderについては[こちら](https://zenn.dev/kitam/articles/02b0981535e25b)を参照ください。
+FileStreamReaderは、CASEステートマシンの説明に係る使用例です。ストリーム風とするため、一連のFB、FUNから成ります。CASEステートマシンについては[こちら](https://zenn.dev/kitam/articles/02b0981535e25b)を、FileStreamReaderについては[こちら](https://zenn.dev/kitam/articles/0f205617377a3a)を参照ください。
 
 ## ファイルハッシュ値
 取得したSysmac Studioプロジェクトは、ハッシュ値の確認を推奨します。
