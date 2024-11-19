@@ -1,0 +1,2 @@
+# CaseStateMachineExample_FileStreamReader
+ 
